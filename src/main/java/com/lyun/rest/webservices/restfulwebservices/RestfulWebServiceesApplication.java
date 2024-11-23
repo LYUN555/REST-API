@@ -1,4 +1,4 @@
-package com.lyun.rest.webservices.restfulwebservicees;
+package com.lyun.rest.webservices.restfulwebservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

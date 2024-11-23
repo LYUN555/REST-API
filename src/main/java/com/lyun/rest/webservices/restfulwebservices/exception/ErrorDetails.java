@@ -1,4 +1,4 @@
-package com.lyun.rest.webservices.restfulwebservicees.exception;
+package com.lyun.rest.webservices.restfulwebservices.exception;
 
 import java.time.LocalDateTime;
 

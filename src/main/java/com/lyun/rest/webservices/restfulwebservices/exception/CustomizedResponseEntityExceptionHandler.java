@@ -1,20 +1,18 @@
-package com.lyun.rest.webservices.restfulwebservicees.exception;
+package com.lyun.rest.webservices.restfulwebservices.exception;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
-import org.springframework.lang.Nullable;
 import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
 
-import com.lyun.rest.webservices.restfulwebservicees.user.UserNotFoundException;
+import com.lyun.rest.webservices.restfulwebservices.user.UserNotFoundException;
 
 @ControllerAdvice
 public class CustomizedResponseEntityExceptionHandler extends ResponseEntityExceptionHandler {

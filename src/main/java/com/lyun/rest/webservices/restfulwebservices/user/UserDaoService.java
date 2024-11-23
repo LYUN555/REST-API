@@ -1,4 +1,4 @@
-package com.lyun.rest.webservices.restfulwebservicees.user;
+package com.lyun.rest.webservices.restfulwebservices.user;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
