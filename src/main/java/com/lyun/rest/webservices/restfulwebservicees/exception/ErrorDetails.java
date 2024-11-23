@@ -1,6 +1,5 @@
 package com.lyun.rest.webservices.restfulwebservicees.exception;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 public class ErrorDetails {
